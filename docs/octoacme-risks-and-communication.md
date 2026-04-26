@@ -23,6 +23,7 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Include QA Lead and Customer Support Liaison in regular risk and status updates, especially around release readiness and escalation paths.
 
 ## Communication Templates
 Weekly Status Template:
