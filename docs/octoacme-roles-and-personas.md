@@ -75,6 +75,91 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Quality Assurance (QA) Lead
+
+### Role Summary
+Owns product quality strategy and coordinates testing across the lifecycle.
+
+### Responsibilities
+- Define test plans, coverage, and acceptance criteria with PM/Devs
+- Lead bug triage and drive QA sign-off on features/releases
+- Oversee manual and automated testing
+- Ensure CI/CD integration for tests
+- Highlight risks and propose mitigations related to quality
+
+### Goals
+- Minimize escaped defects
+- Ensure predictable release quality
+
+### Typical Communication
+- Reports testing status in standups and delivery syncs
+- Coordinates with Developers for testability and bug fixes
+- Works with DevOps for CI/CD
+
+---
+
+## UX Designer
+
+### Role Summary
+Designs and validates the user experience, ensuring usability and accessibility.
+
+### Responsibilities
+- Develop wireframes, mockups, and prototypes
+- Conduct user research and usability tests
+- Collect and analyze user feedback; iterate on UI/UX
+- Collaborate with Product and Developers on feature scoping
+
+### Goals
+- Deliver intuitive, effective experiences
+- Promote user-centered design
+
+### Typical Communication
+- Presents designs in planning and reviews
+- Documents usability feedback and action items
+
+---
+
+## DevOps Engineer
+
+### Role Summary
+Enables effective build, delivery, and infrastructure management.
+
+### Responsibilities
+- Develop/maintain CI/CD pipeline and deployment practices
+- Implement monitoring, alerting, and environment automation
+- Advise on infrastructure and security best practices
+- Collaborate with QA on testing environments
+
+### Goals
+- Reliable, automated delivery pipeline
+- Scalable, resilient environments
+
+### Typical Communication
+- Communicates deployment status, incidents, infra changes
+
+---
+
+## Customer Support Liaison
+
+### Role Summary
+Serves as the point of contact between the project team and customer/user support.
+
+### Responsibilities
+- Prepare support documentation for new releases
+- Ensure readiness of the support team before launches
+- Gather feedback/issues from customers to relay to the team
+- Participate in post-release reviews
+
+### Goals
+- Smooth go-lives and effective user support
+- Timely resolution of customer-reported issues
+
+### Typical Communication
+- Regular briefings with PM, Developers, QA before launch
+- Post-release issue triage with project team
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.

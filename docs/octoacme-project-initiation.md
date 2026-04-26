@@ -33,8 +33,10 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
 - [ ] Decision: Approve to move into planning?
+- [ ] QA and UX reps identified for project
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+ 
 
 ## Decision Gate
 Move to planning when:

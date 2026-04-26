@@ -17,7 +17,10 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- Quality Assurance (QA) Lead: defines test strategy, ensures quality and acceptance before release.
+- UX Designer: designs, prototypes, and validates UI/UX; gathers and incorporates end-user feedback.
+- DevOps Engineer: enables reliable builds, deployments, and infrastructure management.
+- Customer Support Liaison: prepares support organization for releases, ensures customer feedback is funneled back to the team.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts

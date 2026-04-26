@@ -38,3 +38,6 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] QA Lead assigned; test plan reviewed and executed
+- [ ] UX reviewed; usability issues triaged and re-tested
+- [ ] Customer Support Liaison briefed and support docs updated
