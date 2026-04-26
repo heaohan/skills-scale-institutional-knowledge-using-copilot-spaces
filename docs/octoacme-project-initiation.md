@@ -36,8 +36,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] QA and UX reps identified for project
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
-- [ ] Create repo or project board skeleton
-- [ ] Add initial artifacts to repo (docs/ or .copilot/)
+ 
 
 ## Decision Gate
 Move to planning when:
